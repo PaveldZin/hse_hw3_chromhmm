@@ -1,6 +1,6 @@
 # hse_hw3_chromhmm
 ## Гистоновые Метки
-Name | File
+Имя | Файл
 --- | ---
 H3K27ac | wgEncodeBroadHistoneGm12878H3k27acStdAlnRep1.bam
 H3K27me3 | wgEncodeBroadHistoneGm12878H3k27me3StdAlnRep1.bam
