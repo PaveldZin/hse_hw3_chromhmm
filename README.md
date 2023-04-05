@@ -12,4 +12,12 @@ H3K79me2 | wgEncodeBroadHistoneGm12878H3k79me2StdAlnRep1.bam
 H3K9ac | wgEncodeBroadHistoneGm12878H3k9acStdAlnRep1.bam
 H3K9me3 | wgEncodeBroadHistoneGm12878H3k9me3StdAlnRep1.bam
 H4K20me1 | wgEncodeBroadHistoneGm12878H4k20me1StdAlnRep1.bam
+## ChromHMM
 
+Emission | Overlap | Transition 
+ --- | --- | ---
+![Image](/data/emissions_10.png) | ![Image](/data/GM12878_10_overlap.png) | ![Image](/data/transitions_10.png)
+
+RefSeqTSS | RefSeqTES 
+ --- | --- 
+![Image](/data/GM12878_10_RefSeqTSS_neighborhood.png) | ![Image](/data/GM12878_10_RefSeqTES_neighborhood.png)
