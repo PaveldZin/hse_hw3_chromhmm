@@ -27,13 +27,13 @@ RefSeqTSS | RefSeqTES
 ## Эпигенетические типы
 № | Название | Описание | Картинка
  --- | --- | ---| ---
-1 | Active Promoter | <ul><li> выражен в H3K27me1 </li><li> Чаще всего на RefSeqTES и LaminB1lads </li> | ![Image](/data/state_1.png)
-2 | Weak enhancer/Weak transcribed | <ul><li> выражен в H3K27ac, H3K4me2, H3K4me1 </li><li> Чаще всего находятся на RefSeqTES </li> | ![Image](/data/state_2.png)
-3 | Strong enhancer/Transcriptional elogation | <ul><li> выражен в H3K4me2 </li><li> Чаще всего находятся на CpGisland, RefseqExon, RefSeqTES и RefSeqTSS2Kb </li> | ![Image](/data/state_3.png)
-4 | Active Promoter | <ul><li> выражен в H3K9ac, H3K27ac, H3K4me3, H3K4me2, H3K79me2 </li><li> Чаще всего находятся на CpGIsland, REfRefSeqTSS, REfRefSeqTES, RefSeqExon и RefSeqTSS2Kb </li> | ![Image](/data/state_4.png)
-5 | Active Promoter | <ul><li> выражен в H3K79me2 </li><li> Чаще всего находятся на RefSeqGene </li> | ![Image](/data/state_5.png)
-6 | Weak enhancer | <ul><li> выражен в H3K79me2 </li><li> Чаще всего находятся на RefSeqGene  </li>| ![Image](/data/state_6.png)
-7 | Weak enhancer | <ul><li> выражен в H3K36me3 </li><li> Чаще всего находятся на RefSeqTES </li>| ![Image](/data/state_7.png)
-8 | Weak enhancer | <ul><li> слабо выражен </li><li> Чаще всего находятся на LaminB1lads </li> | 
-9 | Weak enhancer | <ul><li> выражен в H3K4me3 </li><li> Чаще всего находятся на RefSeqTES и LaminB1lads </li> | ![Image](/data/state_9.png)
-10 | Weak transcribed | <ul><li> выражен в H3K27me3 </li><li> Чаще всего находятся на LaminB1lads </li> | ![Image](/data/state_10.png)
+1 | Active Promoter | <ul><li> Характерен для H3K27me1 </li><li> Чаще всего на RefSeqTES и LaminB1lads </li> | ![Image](/data/state_1.png)
+2 | Weak enhancer/Weak transcribed | <ul><li> Характерен для H3K27ac, H3K4me2, H3K4me1 </li><li> Чаще всего находятся на RefSeqTES </li> | ![Image](/data/state_2.png)
+3 | Strong enhancer/Transcriptional elogation | <ul><li> Характерен для H3K4me2 </li><li> Чаще всего находятся на CpGisland, RefseqExon, RefSeqTES и RefSeqTSS2Kb </li> | ![Image](/data/state_3.png)
+4 | Active Promoter | <ul><li> Характерен для H3K9ac, H3K27ac, H3K4me3, H3K4me2, H3K79me2 </li><li> Чаще всего находятся на CpGIsland, REfRefSeqTSS, REfRefSeqTES, RefSeqExon и RefSeqTSS2Kb </li> | ![Image](/data/state_4.png)
+5 | Active Promoter | <ul><li> Характерен для H3K79me2 </li><li> Чаще всего находятся на RefSeqGene </li> | ![Image](/data/state_5.png)
+6 | Weak enhancer | <ul><li> Характерен для H3K79me2 </li><li> Чаще всего находятся на RefSeqGene  </li>| ![Image](/data/state_6.png)
+7 | Weak enhancer | <ul><li> Характерен для H3K36me3 </li><li> Чаще всего находятся на RefSeqTES </li>| ![Image](/data/state_7.png)
+8 | Weak enhancer | <ul><li> Слабо выражен </li><li> Чаще всего находятся на LaminB1lads </li> | 
+9 | Weak enhancer | <ul><li> Характерен для H3K4me3 </li><li> Чаще всего находятся на RefSeqTES и LaminB1lads </li> | ![Image](/data/state_9.png)
+10 | Weak transcribed | <ul><li> Характерен для H3K27me3 </li><li> Чаще всего находятся на LaminB1lads </li> | ![Image](/data/state_10.png)
